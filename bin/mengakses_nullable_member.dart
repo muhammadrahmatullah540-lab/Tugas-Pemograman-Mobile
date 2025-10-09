@@ -1,6 +1,6 @@
 void main() {
-  int? intNumber;
-  double doubleNumber = intNumber?.toDouble() ?? 0.0;
+  int intNumber = 10;  // Drop the ? since it's non-null
+  double doubleNumber = intNumber.toDouble();  // No need for ?. or ??
 
-  print(doubleNumber);
+  print(doubleNumber);  // Outputs: 10.0
 }
