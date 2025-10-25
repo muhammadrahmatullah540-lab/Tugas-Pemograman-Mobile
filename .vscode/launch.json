@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "project_1 (Flutter debug)",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "project_1 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "project_1 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "project_1_dart (Dart-only VM)",
+            "request": "launch",
+            "type": "dart",
+           
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
