@@ -10,6 +10,6 @@ extension GoodByeOnPerson on Person {
 
 void main() {
   var person = Person();
-  person.name = "Eko";
-  person.sayGoodBye("Budi");
+  person.name = "Shia";
+  person.sayGoodBye("Lia");
 }

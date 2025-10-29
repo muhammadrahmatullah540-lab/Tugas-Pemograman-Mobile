@@ -9,7 +9,7 @@ class Person {
 
 void main() {
   var person1 = Person();
-  person1.name = 'Eko';
+  person1.name = 'Rahmat';
   person1.age = 25;
   person1.sayHello();
 }

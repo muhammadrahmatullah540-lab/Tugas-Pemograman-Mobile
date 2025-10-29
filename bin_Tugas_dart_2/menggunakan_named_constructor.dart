@@ -14,7 +14,7 @@ class Person {
 }
 
 void main() {
-  var person = Person.withName("Eko Kurniawan");
+  var person = Person.withName("Muhammad Rahmatullah");
   var person2 = Person.withAddress("Subang");
   var person3 = Person("Eko", "Jakarta");
 

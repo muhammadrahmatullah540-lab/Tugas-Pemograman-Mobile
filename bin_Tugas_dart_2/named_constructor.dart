@@ -14,7 +14,7 @@ class Person {
 }
 
 void main() {
-  var person1 = Person("Eko", "Subang");
+  var person1 = Person("Rahmat", "Subang");
   print("${person1.name}, ${person1.address}");
 
   var person2 = Person.withName("Budi");

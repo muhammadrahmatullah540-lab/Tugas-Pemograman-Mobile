@@ -10,7 +10,7 @@ class Person {
 void main() {
   // Membuat objek person1
   var person1 = Person();
-  person1.name = 'Eko';
+  person1.name = 'Rahmat';
   person1.age = 25;
   person1.sayHello(); // Hello, my name is Eko and I am 25 years old.
 

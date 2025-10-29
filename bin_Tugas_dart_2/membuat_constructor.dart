@@ -14,6 +14,6 @@ class Person {
 }
 
 void main() {
-  var person = Person("Eko", "Subang");
-  person.sayHello("Budi");
+  var person = Person("Rahmat", "Subang");
+  person.sayHello("Shia");
 }

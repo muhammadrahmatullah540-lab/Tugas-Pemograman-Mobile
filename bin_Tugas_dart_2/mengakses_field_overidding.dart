@@ -17,5 +17,5 @@ class OtherPerson extends Person {
 
 void main() {
   var person = OtherPerson();
-  person.sayHello("Eko");
+  person.sayHello("Rahmat");
 }

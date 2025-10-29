@@ -10,7 +10,7 @@ class Person {
 }
 
 void main() {
-  var person = Person("Eko Kurniawan", "Subang");
+  var person = Person("Muhammad Rahmatullah", "Subang");
   print(person.name);
   print(person.address);
   print(person.country);

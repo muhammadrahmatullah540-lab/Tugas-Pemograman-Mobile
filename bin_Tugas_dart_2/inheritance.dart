@@ -10,6 +10,6 @@ class VicePresident extends Manager {}
 
 void main() {
   var vp = VicePresident();
-  vp.name = "Eko";
-  vp.sayHello("Budi");
+  vp.name = "Rahmat";
+  vp.sayHello("Shia");
 }

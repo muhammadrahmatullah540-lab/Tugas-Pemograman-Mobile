@@ -10,8 +10,8 @@ User? createUser() {
 
 void main() {
   User? user = createUser()
-    ?..username = "eko"
-    ..name = "Eko Kurniawan"
+    ?..username = "Rahmat"
+    ..name = "Muhammad Rahmatullah"
     ..email = "eko@example.com";
 
   print(user?.username);

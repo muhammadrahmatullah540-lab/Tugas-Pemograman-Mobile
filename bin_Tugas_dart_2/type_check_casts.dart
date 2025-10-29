@@ -24,7 +24,7 @@ void sayHello(Employee employee) {
 }
 
 void main() {
-  sayHello(Employee("Eko"));
+  sayHello(Employee("Rahmatullah"));
   sayHello(Manager("Budi"));
   sayHello(VicePresident("Kurniawan"));
 }

@@ -27,7 +27,7 @@ class VicePresident extends Manager {
 }
 
 void main() {
-  Employee employee = Employee("Eko");
+  Employee employee = Employee("Rahmat");
   print(employee);
 
   employee = Manager("Eko");

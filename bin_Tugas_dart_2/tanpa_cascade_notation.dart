@@ -6,8 +6,8 @@ class User {
 
 void main() {
   var user = User();
-  user.username = "eko";
-  user.name = "Eko Kurniawan";
+  user.username = "Rahmat";
+  user.name = "Muhammad Rahmatullah";
   user.email = "eko@example.com";
 
   print(user.username);
