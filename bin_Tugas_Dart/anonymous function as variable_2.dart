@@ -4,9 +4,9 @@ void sayHello(String name, String Function(String) filter) {
 }
 
 void main() {
-  sayHello('Eko Kurniawan Khannedy', (name) {
+  sayHello('Muhammad Rahmatullajh', (name) {
     return name.toUpperCase();
   });
 
-  sayHello('Eko Kurniawan Khannedy', (String name) => name.toLowerCase());
+  sayHello('Muhammad Rahmatullah', (String name) => name.toLowerCase());
 }

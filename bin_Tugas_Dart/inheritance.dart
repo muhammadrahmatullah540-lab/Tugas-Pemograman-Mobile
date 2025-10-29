@@ -12,12 +12,12 @@ class VicePresident extends Manager {
 }
 
 void main() {
-  var employee = Employee("Budi");
+  var employee = Employee("Rahmat");
   print(employee.name);
 
-  var manager = Manager("Eko");
+  var manager = Manager("Shia");
   print(manager.name);
 
-  var vp = VicePresident("Kurniawan");
+  var vp = VicePresident("Lia");
   print(vp.name);
 }

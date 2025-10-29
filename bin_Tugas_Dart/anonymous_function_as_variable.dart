@@ -5,6 +5,6 @@ void main() {
 
   var lowerFunction = (String name) => name.toLowerCase();
 
-  print(upperFunction('Eko'));
-  print(lowerFunction('Eko'));
+  print(upperFunction('Rahmat'));
+  print(lowerFunction('Rahmat'));
 }
