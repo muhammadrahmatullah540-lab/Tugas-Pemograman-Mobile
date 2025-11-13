@@ -1,7 +1,7 @@
-import '../lib/data/customer.dart';
+import 'customer.dart';
 
 void main() {
-  var customer = Customer("Eko", CustomerLevel.vip);
+  var customer = Customer("Rahmat", CustomerLevel.vip);
 
   print(customer.name);          // output: Eko
   print(customer.level);         // output: CustomerLevel.vip
